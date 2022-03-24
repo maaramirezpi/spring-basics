@@ -1,6 +1,5 @@
 package com.spring.basics.componentscan;
 
-import com.spring.basics.springbasics.scope.JdbcConnection;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
