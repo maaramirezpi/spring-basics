@@ -1,8 +1,8 @@
 package com.spring.basics.springbasics.xml;
 
-import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Repository;
 
-@Component
+@Repository
 public class XMLPersonDAO {
 
     XMLJdbcConnection xmlJdbcConnection;
